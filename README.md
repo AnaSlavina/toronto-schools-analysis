@@ -31,6 +31,9 @@ Content: Names, addresses, governance boards, geographic coordinates, and types 
 - Jupyter Notebook
 
 
+The dataset was first explored and cleaned, with duplicate entries removed, missing values handled, and school levels and board names standardized to prepare the data for analysis and mapping.
+
+
 ## Visualizations
 
 Below are a few sample charts and maps from the project. The full set of visualizations, along with detailed explanations, can be found in the Jupyter Notebook.
@@ -62,7 +65,7 @@ Below are a few sample charts and maps from the project. The full set of visuali
 ## How to Run:
 
 ```
-git clone https://github.com/your-username/toronto-schools-analysis.git
+git clone https://github.com/AnaSlavina/toronto-schools-analysis.git
 cd toronto-schools-analysis
 
 pip install -r requirements.txt

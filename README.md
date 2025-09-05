@@ -43,11 +43,11 @@ Below are a few sample charts and maps from the project. The full set of visuali
 
 ### Interactive School Map (Folium)
 ![Map Preview](visuals/folium_map_preview.png)  
-🔗 [View full interactive map](visuals/toronto_schools_interactive_map.html)
+🔗 [View full interactive map](https://anaslavina.github.io/toronto-schools-analysis/toronto_schools_interactive_map.html)
 
 ### School Density Heatmap (Folium)
 ![Map Preview](visuals/folium_heatmap_preview.png)  
-🔗 [View full interactive map](https://yourusername.github.io/toronto-schools-map/toronto_schools_heatmap.html)
+🔗 [View full interactive map](https://anaslavina.github.io/toronto-schools-analysis/toronto_schools_heatmap.html)
 
 
 ## Key Insights

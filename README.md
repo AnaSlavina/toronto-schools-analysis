@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# toronto-schools-analysis
-Data Science project exploring Toronto schools through data analysis, visualization, and interactive mapping.
-=======
 # Toronto Schools Analysis
 
 This project analyzes the distribution of schools across the City of Toronto, with a focus on accessibility, educational levels, governance types, and geographic patterns.
@@ -28,7 +24,7 @@ Content: Names, addresses, governance boards, geographic coordinates, and types 
 
 ## Tools & Libraries
 
-- Python (pandas, geopandas, matplotlib, seaborn)
+- Python (numpy, pandas, geopandas, matplotlib, seaborn)
 
 - Folium (interactive maps)
 
@@ -81,9 +77,6 @@ I am actively building my career as a Junior Data Scientist and am always open t
 
 
 
-Contact: your.email@example.com
+Contact: anastasiia.slavina.w@gmail.com
 
-LinkedIn: [your-linkedin-profile]
-
-
->>>>>>> f857496 (Update README)
+LinkedIn: [Anastasiia Slavina](https://www.linkedin.com/in/anastasiia-slavina/)
